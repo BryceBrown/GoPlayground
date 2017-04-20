@@ -2,6 +2,5 @@
 
 !*.go
 !hello_world/
-gopth/
-.vscode/
+!todo_list/
 
