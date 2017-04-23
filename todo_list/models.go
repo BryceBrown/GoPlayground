@@ -2,7 +2,6 @@ package main
 
 //TodoItem is the main structure for todo list items
 type TodoItem struct {
-	id int
 	title string
 	dateCreated int64
 	notes string
